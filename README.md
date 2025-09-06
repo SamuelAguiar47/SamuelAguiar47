@@ -1,6 +1,10 @@
-## Olá, tudo bem? Seja bem vindo(a)! 👋
-### Me chamo Samuel Aguiar e sou estudante de Engenharia de Software.
-**Tenho bastante interesse em Desenvolvimento Web e Mobile**
+### Olá, tudo bem? Seja bem vindo(a)! 👋
+- Me chamo **Samuel Aguiar** e sou estudante de **Engenharia de Software**.
+- Tenho bastante interesse nas áreas de desenvolvimento de **Aplicações Web**, **Desktop** e **Mobile**, com foco tanto no **Front-end** quanto no **Back-end**.
+- Sempre buscando aprender **novas tecnologias** e **boas práticas de programação**.
+- Disposto **adquirir novas experiências e conhecimentos** e **compartilhar os que possuo** com quem precisar.
+- Por aqui posto alguns **projetos pessoais** e outros desenvolvidos ao longo de cursos on-line.
+- Atualmente estou aprendendo **UML**, **Design Patterns**, **React.JS** e **Node.JS**.
 <!--
 **SamuelAguiar47/SamuelAguiar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
