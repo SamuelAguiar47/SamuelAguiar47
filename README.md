@@ -1,5 +1,4 @@
 ## Olá, tudo bem? Seja bem vindo(a)! 👋
----
 ### Me chamo Samuel Aguiar e sou estudante de Engenharia de Software.
 <!--
 **SamuelAguiar47/SamuelAguiar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
