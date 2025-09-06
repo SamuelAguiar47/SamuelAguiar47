@@ -1,4 +1,4 @@
-### 👋 Olá, Seja bem vindo(a)! 
+## 👋 Olá, Seja bem vindo(a)! 
 🙋‍♂️  Me chamo **Samuel Aguiar** e sou estudante de **Engenharia de Software** 🎓.  
 
 💡  Tenho bastante interesse nas áreas de desenvolvimento de **Aplicações Web**, **Desktop** e **Mobile**, no **Front** e no **Back-end**).  
