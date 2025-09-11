@@ -5,7 +5,7 @@
 
 🔍 Sempre buscando aprender **novas tecnologias** e **boas práticas de programação** 💻.  
 
-🚀 Disposto **adquirir novas experiências e conhecimentos** e **compartilhar os que possuo**🤝.  
+🚀 Disposto **adquirir novas experiências e conhecimentos** e **compartilhar os que possuo** 🤝.  
 
 🛠️ Por aqui posto alguns **projetos pessoais** e outros desenvolvidos ao longo de cursos on-line.  
 
